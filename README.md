@@ -1,4 +1,4 @@
-# Brute Force Router Tenda N301
+# Brute Force Router Tenda 
 
 Simple tool for crack password login page router tenda n301
 
@@ -10,12 +10,3 @@ Simple tool for crack password login page router tenda n301
 
 Open your terminal or termux (android)
 
-```
-git clone https://github.com/mugi789/BruteForce-TendaN301
-cd BruteForce-TendaN301/
-python3 bf.py
-input router ip
-input wordlist file
-```
-
-### _ Tested and Works on Ubuntu 18.04.6 LTS x86_64 _

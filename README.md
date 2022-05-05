@@ -8,5 +8,10 @@ Simple tool for crack password login page router tenda n301
 
 # How to Install and Usage
 
-Open your terminal or termux (android)
-
+```
+git clone https://github.com/mugi789/BruteForce-TendaN301
+cd BruteForce-TendaN301/
+python3 bf.py
+input router ip
+input wordlist file
+```
